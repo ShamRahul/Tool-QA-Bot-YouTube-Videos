@@ -1,4 +1,4 @@
-# 🦜🔗 QA BOT - YOUTUBE
+# 🦜🔗 QA BOT - YOUTUBE - LLM
 
 This project serves as a tool to answer queries based on YouTube video transcripts. It leverages the power of OpenAI, LangChain, and Streamlit to provide a user-friendly interface where users can input a YouTube video URL and ask questions related to the video's content.
 
